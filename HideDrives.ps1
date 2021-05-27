@@ -1,7 +1,8 @@
 <#
 .SYNOPSIS
     Hide Drives in Windows 10
-	Mark Messink 21-10-2020
+	Mark Messink 27-05-2021
+	Working on Windows Build 10.0.21354.0 and older
 
 .DESCRIPTION
  
